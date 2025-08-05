@@ -1,0 +1,36 @@
+{
+    "id": 110166409,
+    "name": "shity sakupen circles",
+    "author": "snowninja6861",
+    "creators": ["snowninja6861", "itssinx"],
+    "verifier": "snowninja6861",
+    "verification": "https://youtu.be/wGpIVcuiLNE",
+    "percentToQualify": 57,
+    "password": "Not Copyable",
+    "records": [
+           {
+        "user": "lexon",
+            "link": "https://youtu.be/wGpIVcuiLNE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "chickman",
+            "link": "https://youtu.be/wGpIVcuiLNE",
+            "percent": 100,
+            "hz": 240
+          },
+        {
+        "user": "akari",
+            "link": "https://youtu.be/wGpIVcuiLNE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "andromeda",
+            "link": "https://youtu.be/wGpIVcuiLNE",
+            "percent": 100,
+            "hz": 240
+          }
+           ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 65968942,
+    "name": "memory challenge",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "snowninja6861",
+    "verification": "https://youtu.be/SkvMj1pbJeg",
+    "percentToQualify": 58,
+    "password": "Free To Copy",
+    "records": [ 
+        {
+        "user": "chickman",
+            "link": "https://youtu.be/SkvMj1pbJeg",
+            "percent": 100,
+            "hz": 240
+    },
+         {
+        "user": "lexon",
+            "link": "https://youtu.be/SkvMj1pbJeg",
+            "percent": 68,
+            "hz": 240
+         }
+    ]
+}

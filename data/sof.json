@@ -1,0 +1,30 @@
+{
+    "id": 5098465,
+    "name": "speed of light",
+    "author": "therealsalad",
+    "creators": ["therealsalad"],
+    "verifier": "snowninja6861",
+    "verification": "https://www.youtube.com/watch?v=bQPG5-aCVw0",
+    "percentToQualify": 42,
+    "password": "Free To Copy",
+    "records": [
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=bQPG5-aCVw0",
+            "percent": 100,
+            "hz": 240
+          },
+          {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=bQPG5-aCVw0",
+            "percent": 100,
+            "hz": 240
+          },
+        {
+        "user": "akari",
+            "link": "https://www.youtube.com/watch?v=bQPG5-aCVw0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 104896386,
+    "name": "farland green",
+    "author": "shadiwwisard",
+    "creators": ["shadiwwisard"],
+    "verifier": "shadiwwisard",
+    "verification": "https://youtu.be/B2EtZxrx7Ug",
+    "percentToQualify": 48,
+    "password": "Not Copyable",
+    "records": [
+        {
+               "user": "snowninja6861",
+            "link": "https://youtu.be/B2EtZxrx7Ug",
+            "percent": 100,
+            "hz": 240
+        },
+           {
+        "user": "lexon",
+            "link": "https://youtu.be/B2EtZxrx7Ug",
+            "percent": 100,
+            "hz": 240
+        }
+     ]
+}

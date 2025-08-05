@@ -1,0 +1,30 @@
+{
+    "id": 77428474,
+    "name": "bloudeleuste",
+    "author": "MrSpaghetti",
+    "creators": ["MrSpaghetti", "Hydren"],
+    "verifier": "snowninja6861",
+    "verification": "https://www.youtube.com/watch?v=Ffw1YthvHc0",
+    "percentToQualify": 40,
+    "password": "Not Copyable",
+    "records": [
+         {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=Ffw1YthvHc0",
+            "percent": 100,
+            "hz": 240
+          },
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=Ffw1YthvHc0",
+            "percent": 100,
+            "hz": 240
+          },
+        {
+        "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=Ffw1YthvHc0",
+            "percent": 94,
+            "hz": 240
+          }
+    ]
+}

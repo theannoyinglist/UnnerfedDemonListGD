@@ -1,0 +1,36 @@
+{
+    "id": 77239587,
+    "name": "electrodynamix",
+    "author": "RobsVault",
+    "creators": ["robtop"],
+    "verifier": "snowninja6861",
+    "verification": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+    "percentToQualify": 42,
+    "password": "Not Copyable",
+    "records": [
+          {
+        "user": "alfie",
+            "link": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+            "percent": 61,
+            "hz": 60
+          },
+          {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+            "percent": 100,
+            "hz": 60
+          },
+        {
+        "user": "akari",
+            "link": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+            "percent": 100,
+            "hz": 240
+        }
+           ]
+}

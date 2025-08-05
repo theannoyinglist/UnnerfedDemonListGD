@@ -1,0 +1,30 @@
+{
+    "id": 77239599,
+    "name": "theory of everything 2",
+    "author": "RobsVault",
+    "creators": ["robtop"],
+    "verifier": "snowninja6861",
+    "verification": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+    "percentToQualify": 36,
+    "password": "Not Copyable",
+    "records": [
+         {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+            "percent": 69,
+            "hz": 240
+          },
+         {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+            "percent": 40,
+            "hz": 240
+          },
+        {
+        "user": "akari",
+            "link": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+            "percent": 100,
+            "hz": 240
+        }
+           ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 61034576,
+    "name": "shitty the golden",
+    "author": "acropolisboy",
+    "creators": ["acropolisboy"],
+    "verifier": "lexon",
+    "verification": "https://www.youtube.com/watch?v=Z-tBchNg8Vg",
+    "percentToQualify": 45,
+    "password": "Not Copyable",
+    "records": [
+          {
+        "user": "snowninja6861",
+            "link": "https://www.youtube.com/watch?v=Z-tBchNg8Vg",
+            "percent": 90,
+            "hz": 144
+          }
+    ]
+}

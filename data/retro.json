@@ -1,0 +1,30 @@
+{
+    "id": 14000484,
+    "name": "retro circles",
+    "author": "nacho21",
+    "creators": ["nacho21"],
+    "verifier": "snowninja6861",
+    "verification": "https://www.youtube.com/watch?v=yVxKTQPzyus",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=yVxKTQPzyus",
+            "percent": 100,
+            "hz": 60
+          },
+             {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=yVxKTQPzyus",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+        "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=yVxKTQPzyus",
+            "percent": 100,
+            "hz": 240
+        }
+           ]
+}

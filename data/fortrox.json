@@ -1,0 +1,24 @@
+{
+    "id": 104630512,
+    "name": "fortox",
+    "author": "shadiwwisard",
+    "creators": ["shadiwwisard"],
+    "verifier": "shadiwwisard",
+    "verification": "https://youtu.be/Jjrx4kHDQTk",
+    "percentToQualify": 49,
+    "password": "Not Copyable",
+    "records": [
+        {
+               "user": "snowninja6861",
+            "link": "https://youtu.be/Jjrx4kHDQTk",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+        "user": "bladecar",
+            "link": "https://youtu.be/Jjrx4kHDQTk",
+            "percent": 57,
+            "hz": 60
+          }
+           ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 77240633,
+    "name": "fingerdash",
+    "author": "RobsVault",
+    "creators": ["robtop"],
+    "verifier": "bladecar",
+    "verification": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+    "percentToQualify": 39,
+    "password": "Free To Copy",
+    "records": [
+       {
+        "user": "snowninja6861",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 60
+        }, {
+        "user": "shadiwwisard",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+        "user": "alfie",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+        "user": "sibanda",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 42,
+            "hz": 60
+        },
+          {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=gd8KO_vD8jQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 102165110,
+    "name": "grim reaper",
+    "author": "shadiwwisard",
+    "creators": ["shadiwwisard"],
+    "verifier": "shadiwwisard",
+    "verification": "https://youtu.be/vI921f2bhOw",
+    "percentToQualify": 60,
+    "password": "Not Copyable",
+    "records": [
+        {
+               "user": "snowninja6861",
+            "link": "https://youtu.be/vI921f2bhOw",
+            "percent": 100,
+            "hz": 360
+        }
+           ]
+}

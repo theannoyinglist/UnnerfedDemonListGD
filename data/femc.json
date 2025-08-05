@@ -1,0 +1,36 @@
+{
+    "id": 113075162,
+    "name": "femboy circles easy",
+    "author": "snowninja6861",
+    "creators": ["snowninja681", "LaAkina", "Skeletonette"],
+    "verifier": "snowninja6861",
+    "verification": "https://youtu.be/oa9xVXaOM7U",
+    "percentToQualify": 26,
+    "password": "Not Copyable",
+    "records": [
+         {
+        "user": "bladecar",
+            "link": "https://youtu.be/oa9xVXaOM7U",
+            "percent": 29,
+            "hz": 60
+          },
+        {
+        "user": "chickman",
+            "link": "https://youtu.be/oa9xVXaOM7U",
+            "percent": 80,
+            "hz": 240
+          },
+        {
+        "user": "lexon",
+            "link": "https://youtu.be/oa9xVXaOM7U",
+            "percent": 74,
+            "hz": 240
+          },
+         {
+        "user": "andromeda",
+            "link": "https://youtu.be/oa9xVXaOM7U",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
